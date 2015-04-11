@@ -1,0 +1,5 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppNumeroletras\AppNumeroletras\bin\Debug\AppNumeroletras.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppNumeroletras\AppNumeroletras\bin\Debug\AppNumeroletras.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppNumeroletras\AppNumeroletras\bin\Debug\AppNumeroletras.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppNumeroletras\AppNumeroletras\obj\Debug\AppNumeroletras.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppNumeroletras\AppNumeroletras\obj\Debug\AppNumeroletras.pdb

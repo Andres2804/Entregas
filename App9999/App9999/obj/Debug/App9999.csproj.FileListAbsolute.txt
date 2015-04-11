@@ -1,0 +1,6 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\App9999\App9999\bin\Debug\App9999.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\App9999\App9999\bin\Debug\App9999.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\App9999\App9999\bin\Debug\App9999.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\App9999\App9999\obj\Debug\App9999.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\App9999\App9999\obj\Debug\App9999.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\App9999\App9999\obj\Debug\App9999.pdb

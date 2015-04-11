@@ -1,0 +1,6 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppHierro\AppHierro\bin\Debug\AppHierro.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppHierro\AppHierro\bin\Debug\AppHierro.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppHierro\AppHierro\bin\Debug\AppHierro.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppHierro\AppHierro\obj\Debug\AppHierro.csprojResolveAssemblyReference.cache
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppHierro\AppHierro\obj\Debug\AppHierro.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppHierro\AppHierro\obj\Debug\AppHierro.pdb

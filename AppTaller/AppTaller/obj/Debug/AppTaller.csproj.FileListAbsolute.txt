@@ -1,0 +1,5 @@
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppTaller\AppTaller\bin\Debug\AppTaller.exe.config
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppTaller\AppTaller\bin\Debug\AppTaller.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppTaller\AppTaller\bin\Debug\AppTaller.pdb
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppTaller\AppTaller\obj\Debug\AppTaller.exe
+c:\users\lab104bpc10\documents\visual studio 2012\Projects\AppTaller\AppTaller\obj\Debug\AppTaller.pdb
